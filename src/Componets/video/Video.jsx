@@ -6,7 +6,7 @@ export default function Video() {
   return (
     <div className='video mt-5 py-5' >
         <div className="head-video text-center mt-5 mx-auto">
-        <h2 className='fw-bold'>لم يكن إنشاء تطبيق التسوق بهذه البساطة من قبل        </h2>
+        <h2 className='fw-bold'>لم يكن إنشاء تطبيق التسوق بهذه البساطة من قبل </h2>
         <p className='px-5 py-4 '>يتيح لك مُنشئ السحب والإفلات إنشاء تجارب تطبيقات مُخصصة تحمل علامتك التجارية، سواءً لنظامي iOS أو Android. لا يتطلب الأمر أي مهارات برمجة أو معرفة تقنية.        </p>
         </div>
 {/* <video autoplay='true' src={video}></video> */}
